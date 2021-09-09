@@ -27,7 +27,7 @@ export class Matrix extends Component<Props> {
     }
 
     render(): ReactNode {
-        let count = -2;
+        let count = -1;
         // console.log('MAT:', count);
         return (
             <div style={{display: 'table', marginLeft: 'auto', marginRight: 'auto'}}>
